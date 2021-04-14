@@ -41,6 +41,7 @@ class MyFrame(wx.Frame):
         else:
             sc = 200
         if sc == 200:
+            self.error.SetLabelText('')
             xx = requests.get(api)
             xx_t = xx.text
             xx_tl = []
