@@ -20,7 +20,7 @@ The code is on it.
 Now I'm the only one maintainers this project.  
 More people may join in the future.
 ## Change Log
-I won't explain the previous version of version 1.0.  
+I won't explain the version 0.1 to version 0.9.  
 After all,the version is too old.  
 Let's start from version 1.0.
 ### V1.0
@@ -44,7 +44,7 @@ Let's start from version 1.0.
     * VIP State
     * Rank
     * Favorite Status
-    * Live Room Information
+    * Live Room Information  
 In addition, the author will also launch video query information.  
 Please look forward to video information query and V2.0!
 ## License
