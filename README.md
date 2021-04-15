@@ -34,7 +34,7 @@ Let's start from version 1.0.
 ### V1.1
 * Change app Icon be added
 * Add error text prompt to prevent program error.
-### V2.0 Notice
+### V2.0 Preview
 * The user can change the icon by himself.
 * Additional information will added:
     * Name
