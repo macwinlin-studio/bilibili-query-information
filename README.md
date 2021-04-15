@@ -7,7 +7,7 @@ Start with API.
 Then write the program.  
 Finally,the GUI interface is used.  
 From version 0.1 to version 1.1,did a lot of optimization.  
-Now, version 2.0 has been made,adding more information and striving to create better.
+Now, version 2.0 has been started made,adding more information and striving to create better.
 ## Install
 This project can be run directly,but this project needs to install some necessary modules.  
 You can use this code:pip install -r requirements.txt  
