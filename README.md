@@ -2,7 +2,7 @@
 This is bilibili-query-information's README
 ## Background
 This project's background,in fact,the author came up with it when it when he first learned Python.  
-Later,it began to be made.  
+Later,it began to be started made.  
 Start with API.  
 Then write the program.  
 Finally,the GUI interface is used.  
@@ -19,9 +19,9 @@ The code is on it.
 ## Maintainers
 Now I'm the only one maintainers this project.  
 More people may join in the future.
-## Change Log
-I won't explain the version 0.1 to version 0.9.  
-After all,the version is too old.  
+## Update Log
+I won't write version 0.1 to version 0.9 on it.  
+After all,these version is too old.  
 Let's start from version 1.0.
 ### V1.0
 * Using GUI interface
