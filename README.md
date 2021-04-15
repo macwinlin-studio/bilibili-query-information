@@ -23,5 +23,9 @@ More people may join in the future.
 I won't explain the previous version of version 1.0.  
 After all,the version is too old.  
 Let's start from version 1.0.
+### V1.0
+* Using GUI interface
+### V1.1
+
 ## License
 This project uses Apache-2.0 License.
