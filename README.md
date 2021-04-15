@@ -25,11 +25,27 @@ After all,the version is too old.
 Let's start from version 1.0.
 ### V1.0
 * Using GUI interface
+* There is this information:
+    * Number Of Attention
+    * Number Of Fans
+    * Number Of Likes
+    * Number Of Plays
+    * Number Of Reads
 ### V1.1
 * Change app Icon be added
 * Add error text prompt to prevent program error.
 ### V2.0 Notice
 * The user can change the icon by himself.
 * Additional information will added.
+    * Name
+    * Sex
+    * Sign
+    * Birthday
+    * VIP State
+    * Rank
+    * Favorite Status
+    * Live Room Information
+In addition, the author will also launch video information query.  
+Please look forward to video information query and V2.0!
 ## License
 This project uses Apache-2.0 License.
