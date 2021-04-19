@@ -44,8 +44,8 @@ Let's start from version 1.0.
     * VIP State
     * Rank
     * Favorite Status
-    * Live Room Information
-In addition, the author will also launch video query information.  
-Please look forward to video query information and V2.0!
+    * Live Room Information  
+* In addition, the author will also launch video query information.  
+* Please look forward to video query information and V2.0!
 ## License
 This project uses Apache-2.0 License.
