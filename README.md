@@ -29,10 +29,10 @@ Let's start from version 1.0.
     * Number Of Attention
     * Number Of Fans
 ### V1.1
-* Change app icon button be added
+* Change app icon
 * Add error text prompt to prevent program error
 ### V2.0 Function
-* The user can change the icon by himself.
+* The user can change the icon by himself
 * Additional information will added:
     * Number Of Likes
     * Number Of Plays
