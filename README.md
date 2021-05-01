@@ -1,7 +1,7 @@
 # bilibili-query-information
 This is bilibili-query-information's README
 ## Background
-In fact, when the author first came up with this project, he was just beginning to learn about web crawlers.  
+In fact, when the author first came up with this project, he was just beginning to learn about Python.  
 Later,it began to be started made.  
 Start with API.  
 Then write the program.  
