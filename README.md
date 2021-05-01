@@ -41,7 +41,7 @@ Let's start from version 1.0.
     * Sex
     * Sign
     * Birthday
-    * VIP State
+    * Big Members State
     * Rank
     * Favorite Status
     * Live Room Information  
