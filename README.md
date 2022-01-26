@@ -32,21 +32,16 @@ Let's start from version 1.0.
 * Change app icon
 * Add error text prompt to prevent program error
 ### V2.0 Function
-* The user can change the icon by himself
-* Additional information will added:
-    * Number Of Likes
-    * Number Of Plays
-    * Number Of Reads
-    * Name
-    * Sex
-    * Sign
-    * Birthday
-    * Big Members State
-    * Rank
-    * Favorite Status
-    * Live Room Information  
-* In addition, the author will also launch video query information.  
-* Please look forward to video query information and V2.0!
+Add the following information:
+* Name
+* Sex
+* Sign
+* Level
+* Face Link
+
+In addition, the author will also launch video query information.
+
+2.0 is the last version of this project, and the last test version is Python 3.9.
 ## License
 This project uses Apache-2.0 License.
 
