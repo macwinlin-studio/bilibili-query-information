@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/license-Apache--2.0-blue" alt="">
   </a>
   <a href="https://github.com/macwinlin-studio/bilibili-query-information/releases">
-    <img src="https://img.shields.io/github/downloads/xinxin2021/bilibili-query-information/total" alt="">
+    <img src="https://img.shields.io/github/downloads/macwinlin-studio/bilibili-query-information/total" alt="">
   </a>
   <img src="https://img.shields.io/badge/platform-windows-red">
   <img src="https://img.shields.io/badge/python-v3.9-orange">
