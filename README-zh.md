@@ -13,8 +13,12 @@
   <a href="https://github.com/macwinlin-studio/bilibili-query-information/releases">
     <img src="https://img.shields.io/github/downloads/macwinlin-studio/bilibili-query-information/total" alt="">
   </a>
-  <img src="https://img.shields.io/badge/platform-windows-red">
-  <img src="https://img.shields.io/badge/python-v3.9-orange">
+  <a href="https://www.microsoft.com/zh-cn/windows">
+    <img src="https://img.shields.io/badge/platform-windows-red">
+  </a>
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/python-v3.9-orange">
+  </a>
 </div>
 
 这是哔哩哔哩查询信息的README的中文版
