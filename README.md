@@ -13,6 +13,7 @@ Now, version 2.0 has been started made,adding more information and striving to c
 This project can be run directly,but this project needs to install some necessary modules.  
 You can use this code in the project save location:pip install -r requirements.txt  
 Then open Python and run it.
+The above steps can be ignored when using the exe version.
 ## Usage
 This project can be run directly,The author will make an app version later.  
 This project needs to install some necessary modules.  
