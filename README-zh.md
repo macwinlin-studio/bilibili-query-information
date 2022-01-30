@@ -1,6 +1,23 @@
-# 哔哩哔哩查询信息
-这是哔哩哔哩查询信息的README的中文版  
-[English](https://github.com/macwinlin-studio/bilibili-query-information/blob/2.0/README.md) | 简体中文 | [繁體中文](https://github.com/macwinlin-studio/bilibili-query-information/blob/2.0/README-tc.md)
+<div align="center">
+  <img src="https://s1.imagehub.cc/images/2022/01/29/bilibili-ico.png" width="160px" height="100px">
+  <h1 align="center">bilibili-query-information</h1>
+  
+  [English](https://github.com/macwinlin-studio/bilibili-query-information/blob/2.0/README.md) | 简体中文 | [繁體中文](https://github.com/macwinlin-studio/bilibili-query-information/blob/2.0/README-tc.md)
+  
+  <a href="https://github.com/macwinlin-studio/bilibili-query-information/releases">
+    <img src="https://img.shields.io/badge/release-2.0-blue" alt="">
+  </a>
+  <a href="https://github.com/macwinlin-studio/bilibili-query-information/blob/2.0/LICENSE">
+    <img src="https://img.shields.io/badge/license-Apache--2.0-blue" alt="">
+  </a>
+  <a href="https://github.com/macwinlin-studio/bilibili-query-information/releases">
+    <img src="https://img.shields.io/github/downloads/xinxin2021/bilibili-query-information/total" alt="">
+  </a>
+  <img src="https://img.shields.io/badge/platform-windows-red">
+  <img src="https://img.shields.io/badge/python-v3.9-orange">
+</div>
+
+这是哔哩哔哩查询信息的README的中文版
 ## 背景
 事实上，当作者刚刚想出这个项目时，他才刚刚开始学习Python。  
 后来，他开始制作。  
