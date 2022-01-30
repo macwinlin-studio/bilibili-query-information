@@ -1,5 +1,5 @@
 # 嗶哩嗶哩查詢信息
-這是嗶哩嗶哩查詢信息的README的繁體中文版
+這是嗶哩嗶哩查詢信息的README的繁體中文版  
 [English](https://github.com/macwinlin-studio/bilibili-query-information/blob/2.0/README.md) | [简体中文](https://github.com/macwinlin-studio/bilibili-query-information/blob/2.0/README-zh.md) | 繁體中文
 ## 背景
 事實上，當作者剛剛想出這個項目是，他才剛剛開始學習Python。
