@@ -16,6 +16,7 @@
   <img src="https://img.shields.io/badge/platform-windows-red">
   <img src="https://img.shields.io/badge/python-v3.9-orange">
 </div>
+
 This is bilibili-query-information's README
 ## Background
 In fact, when the author first came up with this project, he was just beginning to learn about Python.  
