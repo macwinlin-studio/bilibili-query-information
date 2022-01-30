@@ -1,6 +1,22 @@
-# bilibili-query-information
-This is bilibili-query-information's README  
-English | [简体中文](https://github.com/macwinlin-studio/bilibili-query-information/blob/2.0/README-zh.md) | [繁體中文](https://github.com/macwinlin-studio/bilibili-query-information/blob/2.0/README-tc.md)
+<div align="center">
+  <img src="https://s1.imagehub.cc/images/2022/01/29/bilibili-ico.png" width="120px" height="100px">
+  <h1 align="center">bilibili-query-information</h1>
+  
+  English | [简体中文](https://github.com/macwinlin-studio/bilibili-query-information/blob/2.0/README-zh.md) | [繁體中文](https://github.com/macwinlin-studio/bilibili-query-information/blob/2.0/README-tc.md)
+  
+  <a href="https://github.com/macwinlin-studio/bilibili-query-information/releases">
+    <img src="https://img.shields.io/badge/release-2.0-blue" alt="">
+  </a>
+  <a href="https://github.com/macwinlin-studio/bilibili-query-information/blob/2.0/LICENSE">
+    <img src="https://img.shields.io/badge/license-Apache--2.0-blue" alt="">
+  </a>
+  <a href="https://github.com/macwinlin-studio/bilibili-query-information/releases">
+    <img src="https://img.shields.io/github/downloads/xinxin2021/bilibili-query-information/total" alt="">
+  </a>
+  <img src="https://img.shields.io/badge/platform-windows-red">
+  <img src="https://img.shields.io/badge/python-v3.9-orange">
+</div>
+This is bilibili-query-information's README
 ## Background
 In fact, when the author first came up with this project, he was just beginning to learn about Python.  
 Later,it began to be started made.  
