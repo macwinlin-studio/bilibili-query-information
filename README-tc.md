@@ -1,7 +1,23 @@
-# 嗶哩嗶哩查詢信息
-這是嗶哩嗶哩查詢信息的README的繁體中文版
+<div align="center">
+  <img src="https://s1.imagehub.cc/images/2022/01/29/bilibili-ico.png" width="160px" height="100px">
+  <h1 align="center">bilibili-query-information</h1>
+  
+  [English](https://github.com/macwinlin-studio/bilibili-query-information/blob/2.0/README.md) | [简体中文](https://github.com/macwinlin-studio/bilibili-query-information/blob/2.0/README-zh.md) | 繁體中文
+  
+  <a href="https://github.com/macwinlin-studio/bilibili-query-information/releases">
+    <img src="https://img.shields.io/badge/release-2.0-blue" alt="">
+  </a>
+  <a href="https://github.com/macwinlin-studio/bilibili-query-information/blob/2.0/LICENSE">
+    <img src="https://img.shields.io/badge/license-Apache--2.0-blue" alt="">
+  </a>
+  <a href="https://github.com/macwinlin-studio/bilibili-query-information/releases">
+    <img src="https://img.shields.io/github/downloads/macwinlin-studio/bilibili-query-information/total" alt="">
+  </a>
+  <img src="https://img.shields.io/badge/platform-windows-red">
+  <img src="https://img.shields.io/badge/python-v3.9-orange">
+</div>
 
-[English](https://github.com/macwinlin-studio/bilibili-query-information/blob/2.0/README.md) | [简体中文](https://github.com/macwinlin-studio/bilibili-query-information/blob/2.0/README-zh.md) | 繁體中文
+這是嗶哩嗶哩查詢信息的README的繁體中文版
 ## 背景
 事實上，當作者剛剛想出這個項目是，他才剛剛開始學習Python。
 
