@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://s1.imagehub.cc/images/2022/01/29/bilibili-ico.png" width="120px" height="100px">
+  <img src="https://s1.imagehub.cc/images/2022/01/29/bilibili-ico.png" width="160px" height="100px">
   <h1 align="center">bilibili-query-information</h1>
   
   English | [简体中文](https://github.com/macwinlin-studio/bilibili-query-information/blob/2.0/README-zh.md) | [繁體中文](https://github.com/macwinlin-studio/bilibili-query-information/blob/2.0/README-tc.md)
