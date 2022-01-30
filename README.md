@@ -1,5 +1,6 @@
 # bilibili-query-information
-This is bilibili-query-information's README
+This is bilibili-query-information's README  
+English | [简体中文](https://github.com/macwinlin-studio/bilibili-query-information/blob/2.0/README-zh.md) | [繁體中文](https://github.com/macwinlin-studio/bilibili-query-information/blob/2.0/README-tc.md)
 ## Background
 In fact, when the author first came up with this project, he was just beginning to learn about Python.  
 Later,it began to be started made.  
