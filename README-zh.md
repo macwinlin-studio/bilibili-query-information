@@ -1,5 +1,5 @@
 # 哔哩哔哩查询信息
-这是哔哩哔哩查询信息的README的中文版
+这是哔哩哔哩查询信息的README的中文版  
 [English](https://github.com/macwinlin-studio/bilibili-query-information/blob/2.0/README.md) | 简体中文 | [繁體中文](https://github.com/macwinlin-studio/bilibili-query-information/blob/2.0/README-tc.md)
 ## 背景
 事实上，当作者刚刚想出这个项目时，他才刚刚开始学习Python。  
