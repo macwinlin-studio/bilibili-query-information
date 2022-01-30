@@ -15,7 +15,7 @@ You can use this code in the project save location:pip install -r requirements.t
 Then open Python and run it.
 The above steps can be ignored when using the exe version.
 ## Usage
-This project can be run directly,The author will make an app version later.  
+This project can be run directly.  
 This project needs to install some necessary modules.  
 The code is on it.
 ## Maintainers
