@@ -32,7 +32,7 @@ From version 0.1 to version 1.1,did a lot of optimization.
 Now, version 2.0 has been started made,adding more information and striving to create better.
 ## Install
 This project can be run directly,but this project needs to install some necessary modules.  
-You can use this code in the project save location:pip install -r requirements.txt  
+You can use this code in the project save location:`pip install -r requirements.txt`  
 Then open Python and run it.
 The above steps can be ignored when using the exe version.
 ## Usage
