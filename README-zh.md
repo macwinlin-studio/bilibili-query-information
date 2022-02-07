@@ -32,7 +32,7 @@
 现在，2.0版本已经制作完成，增加更多的信息，并努力创造更好的。
 ## 安装
 此项目可以直接运行，但此项目需要安装一些必要的模块。  
-您在项目保存位置可以使用此代码：pip install -r requirements.txt  
+您在项目保存位置可以使用此代码：`pip install -r requirements.txt`  
 然后打开Python并运行它。
 使用EXE版本可忽略以上步驟。
 ## 使用
