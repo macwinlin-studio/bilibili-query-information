@@ -39,7 +39,7 @@
 ## 安裝
 此項目可以直接運行，但此項目需要安裝一些必要的模塊。
 
-您在項目保存位置可以使用此代碼：pip install -r requirements.txt
+您在項目保存位置可以使用此代碼：`pip install -r requirements.txt`
 
 然後打開Python並運行它。
 
